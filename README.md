@@ -12,7 +12,7 @@ A static frontend clone of the Spotify web interface built using **HTML** and **
 
 ## 🔗 Live Demo
 
-👉 [Click here to view](https://gulshan31-08-24.github.io/Spotify-Clone/)
+👉 [Click here to view](https://rahullalwani5726.github.io/spotify-clone/)
 
 ## 🛠️ Technologies Used
 
